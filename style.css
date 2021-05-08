@@ -1,0 +1,22 @@
+body {
+    background: #fafafa;
+}
+
+dino {
+    width: 60px;
+    height: 60px;
+    background: green;
+    position: absolute;
+    bottom: 0;
+}
+
+/*no style.css o codigo position define onde nosso objeto estara 
+e a posição absolute vai colocar o objeto onde esta independente doque estiver em volta*/
+
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background: red;
+}
